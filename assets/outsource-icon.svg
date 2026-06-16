@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Outsource profile logo</title>
+  <desc id="desc">A simple green square logo with OS letters and the word Outsource.</desc>
+  <rect width="1080" height="1080" fill="#fbfaf6"/>
+  <rect x="160" y="150" width="760" height="760" rx="112" fill="#2f6f4e"/>
+  <path d="M282 700h516" stroke="#f2d38d" stroke-width="18" stroke-linecap="round"/>
+  <text x="540" y="515" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="210" font-weight="800" text-anchor="middle" letter-spacing="0">OS</text>
+  <text x="540" y="810" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800" text-anchor="middle" letter-spacing="0">Outsource</text>
+</svg>
+
